@@ -26,7 +26,7 @@ Ensure you have Python 3.7+ installed. It's recommended to use a virtual environ
 
 Steps
 Clone this repository:
-"git clone https://github.com/yourusername/hr-employee-dashboard.git
+"git clone https://github.com/GKTHIRUMARAN/hr-employee-dashboard.git
 cd hr-employee-dashboard"
 
 Install the required dependencies:
