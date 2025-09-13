@@ -1,5 +1,5 @@
 📌 Project Overview
-The HR Employee Insights Dashboard is an interactive web application developed using Streamlit, designed to provide comprehensive analytics on employee data. 
+The HR Employee Insights Dashboard is an interactive web application developed using Streamlit, designed to provide comprehensive analytics on employee data.
 This dashboard allows HR professionals and data analysts to:
 *Visualize Key Metrics: Gain insights into employee attrition, satisfaction, income distribution, and more.
 *Upload and Merge Data: Seamlessly upload new employee datasets and merge them with existing records.
