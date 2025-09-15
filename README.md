@@ -68,6 +68,8 @@ gcloud run deploy hr-dashboard --image gcr.io/hr-insights-472208/hr-dashboard --
 
 After deployment, you will get a public URL for your live dashboard.
 
+you can see my cloud deploy:https://hr-dashboard-20663453869.asia-south1.run.app
+
 🔄 Data Flow
 Upload Data: Users upload CSV employee datasets
 Column Mapping: Mismatched columns are mapped to the standard schema
