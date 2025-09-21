@@ -42,7 +42,7 @@ pip install -r requirements.txt
 streamlit run app.py  
 Access the dashboard at http://localhost:8501
 
-# 🐳 Docker Setup (Optional)
+# 🐳 Docker Setup
 Build Docker image:  
 docker build -t hr-dashboard .
 
